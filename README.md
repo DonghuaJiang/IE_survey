@@ -1,4 +1,4 @@
-# IE_survey
+# Image Encryption Survey
 
 This repository provides supplementary codes and resources for our survey manuscript:
 
