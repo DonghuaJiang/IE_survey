@@ -1,0 +1,52 @@
+function [avg, nn]=bicnn(box)
+size3=8;
+size1=256;
+bool=zeros(256,8);
+for hh=1:1:size1
+    for jj=1:1:size3
+        bool(hh,size3+1-jj)=power(-1,bitget(box(hh),jj));
+    end
+end
+
+% bic=zeros(8,256,8);
+
+H=hadamard(size1);
+asum=0;
+nn=zeros(8,8);
+count12=0;
+
+for hh=1:1:size3
+    
+    for ii=1:1:size3
+        max=0;
+        if ii ~= jj
+            for kk=1:1:size1
+                temp=0;
+
+                for jj=1:1:size1
+
+                    if (bool(jj,hh)*bool(jj,ii))==H(kk,jj)
+                        temp=temp+1;
+                    else
+                        temp=temp-1;
+                    end
+
+                end
+                temp=abs(temp);
+                count12=count12+1;
+
+                if temp>max
+                    max=temp;
+                end
+
+            end
+
+            nn(size3+1-hh,size3+1-ii)= 128-max/2;
+            asum=asum+nn(size3+1-hh,size3+1-ii);
+        end
+    end
+end
+
+avg=asum/(size3*size3-size3);
+
+end
