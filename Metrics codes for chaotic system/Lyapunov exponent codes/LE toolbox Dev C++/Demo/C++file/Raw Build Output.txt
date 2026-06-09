@@ -1,0 +1,328 @@
+5/22/2022 9:57:07 AM: Creating log...
+
+编译项目变更...
+--------
+- 项目文件名: C:\Users\jiangdonghua\Desktop\Dev_lya\hyperTNC.dev
+- 编译器名: TDM-GCC 4.9.2 64-bit Release
+
+生成 makefile...
+--------
+- 文件名: C:\Users\jiangdonghua\Desktop\Dev_lya\Makefile.win
+
+正在处理makefile...
+--------
+- makefile处理器: C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- 命令: mingw32-make.exe -f "C:\Users\jiangdonghua\Desktop\Dev_lya\Makefile.win" all
+
+g++.exe -c chaosTB.cpp -o ../Dev_lya/chaosTB.o -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" 
+g++.exe -c test.cpp -o ../Dev_lya/test.o -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" 
+g++.exe ../Dev_lya/chaosTB.o ../Dev_lya/test.o -o hyperTNC.exe -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
+
+编译结果...
+--------
+- 错误: 0
+- 警告: 0
+- 输出文件名: C:\Users\jiangdonghua\Desktop\Dev_lya\hyperTNC.exe
+- 输出大小: 1.85898017883301 MiB
+- 编译时间: 1.19s
+
+5/22/2022 9:57:23 AM: Appending to log...
+
+编译项目变更...
+--------
+- 项目文件名: C:\Users\jiangdonghua\Desktop\Dev_lya\hyperTNC.dev
+- 编译器名: TDM-GCC 4.9.2 64-bit Release
+
+生成 makefile...
+--------
+- 文件名: C:\Users\jiangdonghua\Desktop\Dev_lya\Makefile.win
+
+正在处理makefile...
+--------
+- makefile处理器: C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- 命令: mingw32-make.exe -f "C:\Users\jiangdonghua\Desktop\Dev_lya\Makefile.win" all
+
+g++.exe -c test.cpp -o ../Dev_lya/test.o -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" 
+g++.exe ../Dev_lya/chaosTB.o ../Dev_lya/test.o -o hyperTNC.exe -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
+
+编译结果...
+--------
+- 错误: 0
+- 警告: 0
+- 输出文件名: C:\Users\jiangdonghua\Desktop\Dev_lya\hyperTNC.exe
+- 输出大小: 1.85898017883301 MiB
+- 编译时间: 0.80s
+
+5/22/2022 9:59:45 AM: Appending to log...
+
+编译项目变更...
+--------
+- 项目文件名: C:\Users\jiangdonghua\Desktop\Dev_lya\hyperTNC.dev
+- 编译器名: TDM-GCC 4.9.2 64-bit Release
+
+生成 makefile...
+--------
+- 文件名: C:\Users\jiangdonghua\Desktop\Dev_lya\Makefile.win
+
+正在处理makefile...
+--------
+- makefile处理器: C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- 命令: mingw32-make.exe -f "C:\Users\jiangdonghua\Desktop\Dev_lya\Makefile.win" all
+
+g++.exe -c chaosTB.cpp -o ../Dev_lya/chaosTB.o -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" 
+g++.exe -c test.cpp -o ../Dev_lya/test.o -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" 
+g++.exe ../Dev_lya/chaosTB.o ../Dev_lya/test.o -o hyperTNC.exe -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
+
+编译结果...
+--------
+- 错误: 0
+- 警告: 0
+- 输出文件名: C:\Users\jiangdonghua\Desktop\Dev_lya\hyperTNC.exe
+- 输出大小: 1.85946846008301 MiB
+- 编译时间: 1.14s
+
+5/22/2022 10:32:07 AM: Appending to log...
+
+编译项目变更...
+--------
+- 项目文件名: C:\Users\jiangdonghua\Desktop\Dev_lya\hyperTNC.dev
+- 编译器名: TDM-GCC 4.9.2 64-bit Release
+
+生成 makefile...
+--------
+- 文件名: C:\Users\jiangdonghua\Desktop\Dev_lya\Makefile.win
+
+正在处理makefile...
+--------
+- makefile处理器: C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- 命令: mingw32-make.exe -f "C:\Users\jiangdonghua\Desktop\Dev_lya\Makefile.win" all
+
+g++.exe -c test.cpp -o ../Dev_lya/test.o -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" 
+g++.exe ../Dev_lya/chaosTB.o ../Dev_lya/test.o -o hyperTNC.exe -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
+
+编译结果...
+--------
+- 错误: 0
+- 警告: 0
+- 输出文件名: C:\Users\jiangdonghua\Desktop\Dev_lya\hyperTNC.exe
+- 输出大小: 1.85946846008301 MiB
+- 编译时间: 0.83s
+
+5/22/2022 10:51:31 AM: Appending to log...
+
+编译项目变更...
+--------
+- 项目文件名: C:\Users\jiangdonghua\Desktop\Dev_lya\hyperTNC.dev
+- 编译器名: TDM-GCC 4.9.2 64-bit Release
+
+生成 makefile...
+--------
+- 文件名: C:\Users\jiangdonghua\Desktop\Dev_lya\Makefile.win
+
+正在处理makefile...
+--------
+- makefile处理器: C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- 命令: mingw32-make.exe -f "C:\Users\jiangdonghua\Desktop\Dev_lya\Makefile.win" all
+
+g++.exe -c chaosTB.cpp -o ../Dev_lya/chaosTB.o -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" 
+g++.exe -c test.cpp -o ../Dev_lya/test.o -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" 
+g++.exe ../Dev_lya/chaosTB.o ../Dev_lya/test.o -o hyperTNC.exe -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
+
+编译结果...
+--------
+- 错误: 0
+- 警告: 0
+- 输出文件名: C:\Users\jiangdonghua\Desktop\Dev_lya\hyperTNC.exe
+- 输出大小: 1.85946846008301 MiB
+- 编译时间: 1.19s
+
+5/22/2022 10:52:05 AM: Appending to log...
+
+编译项目变更...
+--------
+- 项目文件名: C:\Users\jiangdonghua\Desktop\Dev_lya\hyperTNC.dev
+- 编译器名: TDM-GCC 4.9.2 64-bit Release
+
+生成 makefile...
+--------
+- 文件名: C:\Users\jiangdonghua\Desktop\Dev_lya\Makefile.win
+
+正在处理makefile...
+--------
+- makefile处理器: C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- 命令: mingw32-make.exe -f "C:\Users\jiangdonghua\Desktop\Dev_lya\Makefile.win" all
+
+g++.exe -c chaosTB.cpp -o ../Dev_lya/chaosTB.o -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" 
+g++.exe ../Dev_lya/chaosTB.o ../Dev_lya/test.o -o hyperTNC.exe -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
+
+编译结果...
+--------
+- 错误: 0
+- 警告: 0
+- 输出文件名: C:\Users\jiangdonghua\Desktop\Dev_lya\hyperTNC.exe
+- 输出大小: 1.85898017883301 MiB
+- 编译时间: 0.88s
+
+5/22/2022 10:58:34 AM: Appending to log...
+
+编译项目变更...
+--------
+- 项目文件名: C:\Users\jiangdonghua\Desktop\Dev_lya\hyperTNC.dev
+- 编译器名: TDM-GCC 4.9.2 64-bit Release
+
+生成 makefile...
+--------
+- 文件名: C:\Users\jiangdonghua\Desktop\Dev_lya\Makefile.win
+
+正在处理makefile...
+--------
+- makefile处理器: C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- 命令: mingw32-make.exe -f "C:\Users\jiangdonghua\Desktop\Dev_lya\Makefile.win" all
+
+g++.exe -c test.cpp -o ../Dev_lya/test.o -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" 
+g++.exe ../Dev_lya/chaosTB.o ../Dev_lya/test.o -o hyperTNC.exe -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
+
+编译结果...
+--------
+- 错误: 0
+- 警告: 0
+- 输出文件名: C:\Users\jiangdonghua\Desktop\Dev_lya\hyperTNC.exe
+- 输出大小: 1.85898017883301 MiB
+- 编译时间: 0.89s
+
+5/22/2022 11:49:07 AM: Appending to log...
+
+编译项目变更...
+--------
+- 项目文件名: C:\Users\jiangdonghua\Desktop\Dev_lya\hyperTNC.dev
+- 编译器名: TDM-GCC 4.9.2 64-bit Release
+
+生成 makefile...
+--------
+- 文件名: C:\Users\jiangdonghua\Desktop\Dev_lya\Makefile.win
+
+正在处理makefile...
+--------
+- makefile处理器: C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- 命令: mingw32-make.exe -f "C:\Users\jiangdonghua\Desktop\Dev_lya\Makefile.win" all
+
+g++.exe -c test.cpp -o ../Dev_lya/test.o -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" 
+g++.exe ../Dev_lya/chaosTB.o ../Dev_lya/test.o -o hyperTNC.exe -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
+
+编译结果...
+--------
+- 错误: 0
+- 警告: 0
+- 输出文件名: C:\Users\jiangdonghua\Desktop\Dev_lya\hyperTNC.exe
+- 输出大小: 1.85898017883301 MiB
+- 编译时间: 0.81s
+
+5/22/2022 12:10:28 PM: Appending to log...
+
+编译项目变更...
+--------
+- 项目文件名: C:\Users\jiangdonghua\Desktop\Dev_lya\hyperTNC.dev
+- 编译器名: TDM-GCC 4.9.2 64-bit Release
+
+生成 makefile...
+--------
+- 文件名: C:\Users\jiangdonghua\Desktop\Dev_lya\Makefile.win
+
+正在处理makefile...
+--------
+- makefile处理器: C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- 命令: mingw32-make.exe -f "C:\Users\jiangdonghua\Desktop\Dev_lya\Makefile.win" all
+
+g++.exe -c chaosTB.cpp -o ../Dev_lya/chaosTB.o -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" 
+g++.exe ../Dev_lya/chaosTB.o ../Dev_lya/test.o -o hyperTNC.exe -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
+
+编译结果...
+--------
+- 错误: 0
+- 警告: 0
+- 输出文件名: C:\Users\jiangdonghua\Desktop\Dev_lya\hyperTNC.exe
+- 输出大小: 1.85898017883301 MiB
+- 编译时间: 0.88s
+
+5/22/2022 2:31:14 PM: Appending to log...
+
+编译项目变更...
+--------
+- 项目文件名: C:\Users\jiangdonghua\Desktop\C++file\hyperTNC.dev
+- 编译器名: TDM-GCC 4.9.2 64-bit Release
+
+生成 makefile...
+--------
+- 文件名: C:\Users\jiangdonghua\Desktop\C++file\Makefile.win
+
+正在处理makefile...
+--------
+- makefile处理器: C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- 命令: mingw32-make.exe -f "C:\Users\jiangdonghua\Desktop\C++file\Makefile.win" all
+
+g++.exe -c chaosTB.cpp -o ../C++file/chaosTB.o -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" 
+g++.exe -c test.cpp -o ../C++file/test.o -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" 
+g++.exe ../C++file/chaosTB.o ../C++file/test.o -o hyperTNC.exe -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
+
+编译结果...
+--------
+- 错误: 0
+- 警告: 0
+- 输出文件名: C:\Users\jiangdonghua\Desktop\C++file\hyperTNC.exe
+- 输出大小: 1.85898017883301 MiB
+- 编译时间: 1.33s
+
+5/22/2022 2:35:58 PM: Appending to log...
+
+编译项目变更...
+--------
+- 项目文件名: C:\Users\jiangdonghua\Desktop\C++file\hyperTNC.dev
+- 编译器名: TDM-GCC 4.9.2 64-bit Release
+
+生成 makefile...
+--------
+- 文件名: C:\Users\jiangdonghua\Desktop\C++file\Makefile.win
+
+正在处理makefile...
+--------
+- makefile处理器: C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- 命令: mingw32-make.exe -f "C:\Users\jiangdonghua\Desktop\C++file\Makefile.win" all
+
+g++.exe -c chaosTB.cpp -o ../C++file/chaosTB.o -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" 
+g++.exe ../C++file/chaosTB.o ../C++file/test.o -o hyperTNC.exe -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
+
+编译结果...
+--------
+- 错误: 0
+- 警告: 0
+- 输出文件名: C:\Users\jiangdonghua\Desktop\C++file\hyperTNC.exe
+- 输出大小: 1.85898017883301 MiB
+- 编译时间: 0.89s
+
+5/22/2022 2:44:58 PM: Appending to log...
+
+编译项目变更...
+--------
+- 项目文件名: C:\Users\jiangdonghua\Desktop\C++file\hyperTNC.dev
+- 编译器名: TDM-GCC 4.9.2 64-bit Release
+
+生成 makefile...
+--------
+- 文件名: C:\Users\jiangdonghua\Desktop\C++file\Makefile.win
+
+正在处理makefile...
+--------
+- makefile处理器: C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- 命令: mingw32-make.exe -f "C:\Users\jiangdonghua\Desktop\C++file\Makefile.win" all
+
+g++.exe -c chaosTB.cpp -o ../C++file/chaosTB.o -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" 
+g++.exe -c test.cpp -o ../C++file/test.o -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" 
+g++.exe ../C++file/chaosTB.o ../C++file/test.o -o hyperTNC.exe -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
+
+编译结果...
+--------
+- 错误: 0
+- 警告: 0
+- 输出文件名: C:\Users\jiangdonghua\Desktop\C++file\hyperTNC.exe
+- 输出大小: 1.85946846008301 MiB
+- 编译时间: 1.13s
