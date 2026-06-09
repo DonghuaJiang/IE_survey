@@ -21,6 +21,7 @@ The repository currently includes the following modules:
 * **Encryption performance analysis**: tools for evaluating encrypted images using commonly adopted statistical metrics.
 * **Hashing codes**: hash-related routines for key generation, plaintext sensitivity, and encryption control.
 * **Metrics codes for chaotic systems**: codes for analyzing chaotic behavior and sequence complexity.
+* **Image encryption examples**: representative examples including complete encryption codes.
 * **S-box metrics codes**: tools for evaluating cryptographic properties of S-boxes, including nonlinearity, differential behavior, and avalanche-related indicators.
 
 ## Purpose
