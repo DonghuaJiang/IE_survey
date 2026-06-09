@@ -1,0 +1,2 @@
+fen_cha.m              求lorenz系统分岔图
+get_max.m              求局部最大值函数，lorenz系统分岔图基于此方法
