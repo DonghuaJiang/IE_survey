@@ -1,0 +1,2 @@
+lorenz_phase.m           lorenz系统时域测试，求出时域图，相图
+lorenz_sim.mdl           lorenz系统模型
