@@ -8,7 +8,7 @@ The survey paper is currently under peer review. This repository is maintained t
 
 ## Overview
 
-Image encryption has evolved from handcrafted permutation–diffusion mechanisms to data-driven and quantum-inspired paradigms. Different technical routes, such as chaotic maps, S-boxes, compressive sensing, DNA encoding, hashing mechanisms, and statistical security evaluation, have been widely explored for protecting visual information in modern communication and multimedia systems.
+Image encryption has evolved from handcrafted permutation-diffusion mechanisms to data-driven and quantum-inspired paradigms. Different technical routes, such as chaotic maps, S-boxes, compressive sensing, DNA encoding, hashing mechanisms, and statistical security evaluation, have been widely explored for protecting visual information in modern communication and multimedia systems.
 
 This repository collects a set of supporting codes used to illustrate, analyze, and evaluate representative components discussed in our survey. The goal is to provide a practical reference for researchers who wish to understand common implementation procedures and empirical evaluation metrics in image encryption studies.
 
