@@ -45,7 +45,7 @@ If you find this repository useful, please consider citing our survey paper once
 @article{jiang2026image,
   title   = {Image Encryption over Three Decades: A Survey of Foundations, Taxonomies, and Open Challenges},
   author  = {Jiang, Donghua and Khan, Muhammad Shahbaz and Khan, Muhammad Khurram and Zhou, Nanrun and Wang, Mengmeng and Hu, Xianglei and Mumtaz, Shahid and Boulila, Wadii and Ahmad, Jawad},
-  journal = {IEEE Communications Surveys & Tutorials},
+  journal = {ACM Computing Surveys},
   year    = {2026}
 }
 ```
